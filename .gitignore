@@ -1,0 +1,9 @@
+# Compiled Windows and CUDA artifacts
+*.exe
+*.obj
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.iobj
+*.ipch
